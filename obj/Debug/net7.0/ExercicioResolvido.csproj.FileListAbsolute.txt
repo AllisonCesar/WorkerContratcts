@@ -1,0 +1,14 @@
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.exe
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.deps.json
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.runtimeconfig.json
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.dll
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\bin\Debug\net7.0\ExercicioResolvido.pdb
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfoInputs.cache
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.AssemblyInfo.cs
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.csproj.CoreCompileInputs.cache
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.dll
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\refint\ExercicioResolvido.dll
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.pdb
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ExercicioResolvido.genruntimeconfig.cache
+C:\temp\C#\ExercicioResolvido\ExercicioResolvido\obj\Debug\net7.0\ref\ExercicioResolvido.dll
